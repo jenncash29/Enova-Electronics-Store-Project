@@ -1,7 +1,7 @@
 # Elist-Electronics-Store-Project
 This repository contains data analysis and insights for Elist Electronics Store. The project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel, SQL (BigQuery), and Tableau for data processing and visualization.
 # Project Background
-Founded in 2018, Elist is an e-commerce company that sells popular electronic products and has since expanded to a global customer base.  Elist sells products through their online site and mobile app.  They have a variety of marketing channels including Email campaigns, SEO, and affiliate links.  
+Founded in 2018, Elist Electronics is an e-commerce company that sells popular electronic products and has since expanded to a global customer base.  Elist Electronics sells products through their online site and mobile app.  They have a variety of marketing channels including Email campaigns, SEO, and affiliate links.  
 
 This project analysis aims to provide comprehensive insights into the sales performance and customer behvior of Elist Electronics.  By leveraging data analytics tools, this project seeks to uncover trends, evaluate the effectiveness of marketing strategies, and identify areas for improvement.
 
@@ -11,6 +11,8 @@ This project analysis aims to provide comprehensive insights into the sales perf
 - **Refund Rate Analysis:** Analyze the rate of refunds to understand the extent of product returns and potential ussues with customer satisfaction.
 
 # Executive Summary
+Elist Electronics entity relationship diagram (ERD)
+![Entity Relationship Diagram (ERD) for Elist Electronics Store.](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png)
 
 # Insights Deep-Dive
 
