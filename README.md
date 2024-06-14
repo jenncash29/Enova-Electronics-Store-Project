@@ -1,5 +1,3 @@
-# Elist-Electronics-Store-Project
-This repository contains data analysis and insights for Elist Electronics Store. The project includes sales trends, growth rates, loyalty program effectiveness, and refund rate analysis. Tools used include Excel, SQL (BigQuery), and Tableau for data processing and visualization.
 # Project Background
 Founded in 2018, Elist Electronics is an e-commerce company that sells popular electronic products and has since expanded to a global customer base.  Elist Electronics sells products through their online site and mobile app.  They have a variety of marketing channels including Email campaigns, SEO, and affiliate links.  
 
