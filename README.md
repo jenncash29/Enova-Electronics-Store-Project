@@ -3,7 +3,7 @@ Founded in 2018, Elist Electronics is an e-commerce company that sells popular e
 
 This project analysis aims to provide comprehensive insights into the sales performance and customer behvior of Elist Electronics.  By leveraging data analytics tools, this project seeks to uncover trends, evaluate the effectiveness of marketing strategies, and identify areas for improvement.
 
-- **Sales Trends Analysis:**  Examine the overall sales trends over time to identufy peak periods and understand the facotrs driving sales performance.
+- **Sales Trends Analysis:**  Examine the overall sales trends over time to identufy peak periods and understand the factors driving sales performance.
 - **Growth Rate Calculation:** Determine both monhtly and yearly growth rates to measure the business's growth trajectory and identify signicifcant fluctuations.
 - **Loyalty Program Evaluation:** Assess the impact of the oyalty program on customer retention and sales, comparing the purchasing behavior of loyalty members versus non-meners.
 - **Refund Rate Analysis:** Analyze the rate of refunds to understand the extent of product returns and potential ussues with customer satisfaction.
