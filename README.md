@@ -11,7 +11,7 @@ This project analysis aims to provide comprehensive insights into the sales perf
 # Executive Summary
 Elist Electronics entity relationship diagram (ERD)
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD" height='450'>
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD">
 </p>
 
 ### Overview of Findings
