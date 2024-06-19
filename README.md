@@ -17,6 +17,7 @@ Elist Electronics entity relationship diagram (ERD)
 #### **1. Overall Sales Trends**
 - **Average Performace (2019-2022):** Elist averaged ~27k sales per year, generating approximately $7M in revenue annually.  The average order value (AOV) was ~$254 USD.
 - **Growth and Trends:** There was a significant surge in growth in 2020, which continued through 2021.  However, recent trends indiciate a return to sales levels closer to those seen in 2019.
+- **Seasonality:** Peak sales periods were in November and December coinciding with holiday seasons and Black Friday promotions.  
 
 #### **2. Growth Rates**
 - **Peak Growth in 2020:** Sales and revenue more than doubled in 2020 compared to 2019.  Notably, March 2020 saw a 50% spike in sales and order count, likely due to increased purchasing during the pandemic.
@@ -24,7 +25,6 @@ Elist Electronics entity relationship diagram (ERD)
 #### **3. Loyalty Program**
 - **Historical Performance:** From 2019-2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count.
 - **Recent Success:**  In 2022, loyalty members surpassed non-members across all key metrics.
-- **Recommendation:** Given this positive shift, the team recommends to continue and potentially expand the loaylty program to further boost customer retention and sales.
 
 #### **4. Refund Rates and AOV**
 - **Peak Refunds in 2020:** The highest refund rates were recorded in 2020, with the Macbook Air Laptop being the most refunded item.
