@@ -10,25 +10,19 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 # Executive Summary
 Elist Electronics entity relationship diagram (ERD)
-![Entity Relationship Diagram (ERD) for Elist Electronics Store.](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png)
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD" height='450'>
+</p>
 
-### Key Findings
+### Overview of Findings
 
-**1. Overall Sales Trends**
-- **Average Performace (2019-2022):** Elist averaged ~27k sales per year, generating approximately $7M in revenue annually.  The average order value (AOV) was ~$254 USD.
-- **Growth and Trends:** 2020 experienced an explosion of growth, with total sales increasing by 163%.  This was followed by a gradual return to pre-pandemic levels seen in 2019, indicating a normalization of sales post-pandemic. 
-- **Seasonality:** Peak sales periods were in November and December coinciding with holiday seasons and Black Friday promotions.  
+Elist Electronics averaged around 27k sales per year from 2019 to 2022, generating approximately $7 million in revenue annually, with an average order value (AOV) of ~$254 USD. The year 2020 saw a dramatic increase in sales, with a 163% rise in total sales compared to 2019. This spike was followed by a gradual return to pre-pandemic sales levels seen in 2019, indicating a normalization of sales post-pandemic. Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions.
 
-**2. Growth Rates**
-- **Peak Growth in 2020:** Sales and revenue more than doubled in 2020 compared to 2019.  March 2020 marked the beginning of a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
+In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
 
-**3. Loyalty Program**
-- **Historical Performance:** From 2019-2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count.
-- **Recent Success:**  In 2022, loyalty members surpassed non-members across all key metrics.
+The loyalty program showed mixed results. From 2019 to 2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics, indicating a successful turn in the program's impact.
 
-**4. Refund Rates and AOV**
-- **Peak Refunds in 2020:** The highest refund rates were recorded in 2020, with the Macbook Air Laptop being the most refunded item.
-- **Average Order Value (2019-2022):** The AOV for refunded items across all years for Apple products was ~$271 USD.    
+Refund rates peaked in 2020, with the highest rates recorded for the Macbook Air Laptop. The average order value for refunded items across all years for Apple products was $271 USD.     
 
 # Insights Deep-Dive
 
