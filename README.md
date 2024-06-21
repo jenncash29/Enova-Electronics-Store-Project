@@ -17,15 +17,22 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 ### Overview of Findings
 
-Elist Electronics averaged around 27k sales per year from 2019 to 2022, generating approximately $7 million in revenue annually, with an average order value (AOV) of ~$254 USD. The year 2020 saw a dramatic increase in sales, with a 163% rise in total sales compared to 2019. This spike was followed by a gradual return to pre-pandemic sales levels seen in 2019, indicating a normalization of sales post-pandemic. Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions. The highest sales and order count occurred in December 2020.  
+   
 
-In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic. 
+# Insights Deep-Dive
+
+Elist Electronics averaged around 27k sales per year from 2019 to 2022, generating approximately $7 million in revenue annually, with an average order value (AOV) of ~$254 USD. The year 2020 saw a dramatic increase in sales, with a 163% rise in total sales compared to 2019. This spike was followed by a gradual return to pre-pandemic sales levels seen in 2019, indicating a normalization of sales post-pandemic. 
+
+In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
+
+Seasonality: Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions. The highest sales and order count occurred in December 2020.  September also spiked most likely related to iPhone releases and back to school.  February and October were observed to be the lowest months.
 
 The loyalty program showed mixed results. From 2019 to 2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics, indicating a successful turn in the program's impact.
 
-Refund rates peaked in 2020, with the highest rates recorded for the Macbook Air Laptop. The average order value for refunded items across all years for Apple products was $271 USD.     
+Refund rates peaked in 2020 at 9.22% across all products, a 61% jump over 2019.  The ThinkPad Laptop had the highest refund rate of 11.76% followed closely by the Macbook Air Laptop at 11.43% although the Macbook had a slightly higher count than the Thinkpad (453 vs 343). The most returned product was the Apple Airpods Headphones (2,636) followed by the 27in 4K Gaming Monitor (1,445).  
+Seasonality of Refunds
+Refunds are at the highest February through March.  
 
-# Insights Deep-Dive
 
 # Recommendations
 
