@@ -56,7 +56,7 @@ This project analysis aims to provide comprehensive insights into the sales perf
   - The Apple AirPods Headphones were the most returned product with 2,636 units, followed by the 27in 4K Gaming Monitor with 1,445 units.
 
 - **Seasonality of Refunds**
-  - Refunds were highest from February through April.  
+  - Refunds rates were highest from February through April.  
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refund%20Rates.png" alt="Elist Electronics ERD">
