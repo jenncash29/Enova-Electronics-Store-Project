@@ -67,6 +67,18 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refund%20Rates.png" alt="Refunds">
 </p>
 
+### Additional Considerations
+- **Product Performance**
+  - The bulk of sales revenue comes from the top three products: the 27in 4K Gaming Monitor, Apple AirPods Headphones, and the MacBook Air Laptop, which together account for 84.96% of total sales.
+  - The ThinkPad Laptop and MacBook Air Laptop have the highest refund rates at 12% and 11%.  Despite the high refund rates, high-value items like the MacBook Air Laptop and ThinkPad Laptop significantly contribute to total sales due to their high average order values.
+  - Products like the Samsung Charging Cable Pack and Samsung Webcam have low AOV but still contribute to total sales through high order volumes, albeit at a smaller percentage of total sales.
+  - The Bose Soundsport Headphones overall contribution to sales is minimal.
+
+ <p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Performance.png" alt="Product Performance">
+</p>
+
+
 # Recommendations
 
 # Assumptions and Caveats
