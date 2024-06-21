@@ -10,10 +10,17 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 # Executive Summary
 
+### About the Data
+
+The raw dataset contains just over 108,000 rows. The cleaned and analyzed Excel workbook is available for download [here](https://docs.google.com/spreadsheets/d/1iRqNUYJQNc2E6v50HWUGr1srMJJJlc0u/edit?usp=sharing&ouid=110328506075169530580&rtpof=true&sd=true). It includes a detailed change log documenting my structured approach to cleaning and formatting the raw data.
+
+
+
 <p align ="center">
   Elist Electronics Entity Relationship Diagram (ERD)
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD">
 </p>
+
 
 ### Overview of Findings
 
