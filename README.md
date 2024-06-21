@@ -12,7 +12,7 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 <p align ="center">
   Elist Electronics Entity Relationship Diagram (ERD)
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD">
 </p>
 
 ### Overview of Findings
@@ -25,14 +25,28 @@ Elist Electronics averaged around 27k sales per year from 2019 to 2022, generati
 
 In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
 
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Sales%20and%20Growth%20Rates.png" alt="Elist Electronics ERD">
+</p>
+
 Seasonality: Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions. The highest sales and order count occurred in December 2020.  September also spiked most likely related to iPhone releases and back to school.  February and October were observed to be the lowest months.
+
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Seasonality%20Graph.png" alt="Elist Electronics ERD">  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Seasonality%20Values.png" alt="Elist Electronics ERD">
+</p>
 
 The loyalty program showed mixed results. From 2019 to 2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics, indicating a successful turn in the program's impact.
 
-Refund rates peaked in 2020 at 9.22% across all products, a 61% jump over 2019.  The ThinkPad Laptop had the highest refund rate of 11.76% followed closely by the Macbook Air Laptop at 11.43% although the Macbook had a slightly higher count than the Thinkpad (453 vs 343). The most returned product was the Apple Airpods Headphones (2,636) followed by the 27in 4K Gaming Monitor (1,445).  
-Seasonality of Refunds
-Refunds are at the highest February through March.  
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Values.png" alt="Elist Electronics ERD">
+</p>
 
+Refund rates peaked in 2020 at 9.22% across all products, a 61% jump over 2019.  The ThinkPad Laptop had the highest refund rate of 11.76% followed closely by the Macbook Air Laptop at 11.43% although the Macbook had a slightly higher count than the Thinkpad (453 vs 343). The most returned product was the Apple Airpods Headphones (2,636) followed by the 27in 4K Gaming Monitor (1,445).  
+Seasonality of Refunds: Refunds are at the highest February through March.  
+
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refund%20Rates.png" alt="Elist Electronics ERD">
+</p>
 
 # Recommendations
 
