@@ -9,8 +9,9 @@ This project analysis aims to provide comprehensive insights into the sales perf
 - **Refund Rate Analysis:** Analyze the rate of refunds to understand the extent of product returns and potential issues with customer satisfaction, and calculate the average order value (AOV) to gauge sales performance in relation to returns.
 
 # Executive Summary
-Elist Electronics entity relationship diagram (ERD)
+
 <p align ="center">
+  Elist Electronics Entity Relationship Diagram (ERD)
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Elist%20Electronics%20ERD.png" alt="Elist Electronics ERD">
 </p>
 
