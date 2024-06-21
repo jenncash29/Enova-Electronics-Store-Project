@@ -78,6 +78,9 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Performance.png" alt="Product Performance">
 </p>
 
+- **Global Performance**
+  - Out of 192 total countries, 13 countries do the most in sales, totaling just shy of $23 million out of the $28 million in company total sales. 
+
 
 # Recommendations
 
