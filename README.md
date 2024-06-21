@@ -67,7 +67,7 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refund%20Rates.png" alt="Refunds">
 </p>
 
-### Additional Considerations
+### Additional Observations
 - **Product Performance**
   - The bulk of sales revenue comes from the top three products: the 27in 4K Gaming Monitor, Apple AirPods Headphones, and the MacBook Air Laptop, which together account for 84.96% of total sales.
   - The ThinkPad Laptop and MacBook Air Laptop have the highest refund rates at 12% and 11%.  Despite the high refund rates, high-value items like the MacBook Air Laptop and ThinkPad Laptop significantly contribute to total sales due to their high average order values.
@@ -78,8 +78,17 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Performance.png" alt="Product Performance">
 </p>
 
+
 - **Global Performance**
-  - Out of 192 total countries, 13 countries do the most in sales, totaling just shy of $23 million out of the $28 million in company total sales. 
+  - Out of 192 total countries, 13 countries do the most in sales, totaling just shy of $23 million out of the $28 million in company total sales. A significant number of countries contribute minimally to the total sales, each accounting for less than 0.01% to 0.03% of total sales.
+    - **Dominant Region:** North America, particularly the United States, is the dominant market, contributing nearly half of the total sales.
+    - **Strong EMEA Presence:** The EMEA region also plays a significant role, with notable contributions from the UK, Germany, France, and Spain.
+    - **APAC Growth Potential:** APAC shows potential with strong sales in Japan and Australia, alongside emerging markets like India and South Korea.
+    - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
+
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Performance.png" alt="Refunds">
+</p>
 
 
 # Recommendations
