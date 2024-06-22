@@ -94,8 +94,8 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
 </p>
 
 - **Shipping Performance**
-  - Purchase to Ship (1-3 days): Orders are evenly distributed across the first three days, with each day seeing around 36,000 orders. This indicates consistent and efficient shipping practices without significant delays or spikes. Both loyalty members and non-members have similar prompt shipping times.
-  - Ship to Delivery (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
+  - Days-to-Ship (1-3 days): Orders are evenly distributed across the first three days, with each day seeing around 36,000 orders. This indicates consistent and efficient shipping practices without significant delays or spikes. Both loyalty members and non-members have similar prompt shipping times.
+  - Days-to-Deliver (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Ship%20to%20Delivery.png" alt="Ship to Delivery Days">
@@ -135,7 +135,7 @@ Boost Low Sales Months (February and October):
 - Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
 - Expand Emerging Markets: Leverage the growth potential in APAC and LATAM by investing in marketing and distribution channels in emerging markets like India and Brazil.
 
-**Shipping: Optimize Ship to Delivery Times**
+**Shipping: Optimize Days-to-Deliver Times**
 - Work with logistics partners to ensure timely and efficient deliveries.
 - Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
 
