@@ -35,21 +35,21 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
   - In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Sales%20and%20Growth%20Rates.png" alt="Yearly Growth">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/YoY%20Sales%20and%20Growth.png" alt="YoY Sales & Growth">
 </p>
 
 - **Seasonality**
   - Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions. The highest sales and order count were recorded in December 2020. Additionally, September experienced a significant sales spike, likely driven by new iPhone releases and back-to-school shopping. In contrast, February and October were identified as the months with the lowest sales and order counts.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Seasonality.png" alt="Seasonality">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Sales%20by%20Year.png" alt="Monthly Sales by Year">
 </p>
 
 ### Loyalty Program Evaluation
 - The loyalty program showed mixed results. From 2019 to 2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics, indicating a successful turn in the program's impact.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Values.png" alt="Loyalty Program">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program.png" alt="Loyalty Program">
 </p>
 
 ### Refund Rate Analysis
@@ -67,7 +67,7 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
   - Refunds rates were highest from February through April.  
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refund%20Rates.png" alt="Refunds">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refunds%20by%20Month.png" alt="Refunds">
 </p>
 
 ### Additional Observations
@@ -78,7 +78,7 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
   - The Bose Soundsport Headphones overall contribution to sales is minimal.
 
  <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Performance.png" alt="Product Performance">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Mix.png" alt="Product Performance">
 </p>
 
 
@@ -90,7 +90,7 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
     - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Performance.png" alt="Refunds">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Top%20Countries%20%26%20Region%20Mix.png" alt="Refunds">
 </p>
 
 - **Shipping Performance**
@@ -98,7 +98,7 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
   - Days-to-Deliver (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Ship%20to%20Delivery.png" alt="Ship to Delivery Days">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Days%20to%20Deliver.png" alt="Ship to Delivery Days">
 </p>
 
   
