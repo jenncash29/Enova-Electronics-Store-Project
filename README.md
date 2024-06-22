@@ -121,7 +121,8 @@ Boost Low Sales Months (February and October):
   
 **Refunds: Investigate the High Refund Rates**
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
-  
+- Research reasons for higher seasonal refunds rates during February through April.
+
 **Product: Focus on High Performers & Explore Bundling Strategies**
 - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
 - Consider bundling or promotions for products like the Samsung Charging Cable Pack to boost their sales contribution without significantly impacting the overall refund rate.
