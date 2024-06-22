@@ -16,7 +16,7 @@ Elist Electronics processed over 108,000 orders from 2019 to 2022, totaling appr
 
 ### About the Data
 
-The raw dataset contains just over 108,000 rows, with each row repreenting a unique order. The cleaned and analyzed Excel workbook is available for download [here](https://docs.google.com/spreadsheets/d/1fiIHl5W0AY8xY8L7hqFdp-gmXHB82_2H/edit?usp=sharing&ouid=110328506075169530580&rtpof=true&sd=true), including a detailed change log that documents my structured approach to cleaning and formatting the raw data.
+The raw dataset contains just over 108,000 rows, with each row representing a unique order. The cleaned and analyzed Excel workbook is available for download [here](https://docs.google.com/spreadsheets/d/1fiIHl5W0AY8xY8L7hqFdp-gmXHB82_2H/edit?usp=sharing&ouid=110328506075169530580&rtpof=true&sd=true), including a detailed change log that documents my structured approach to cleaning and formatting the raw data.
 
 <p align ="center">
   Elist Electronics Entity Relationship Diagram (ERD)
@@ -121,11 +121,11 @@ Boost Low Sales Months (February and October):
   
 **Refunds: Investigate the High Refund Rates**
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
-- Research reasons for higher seasonal refunds rates during February through April.
+- Research reasons for higher seasonal refund rates during February through April.
 
 **Product: Focus on High Performers & Explore Bundling Strategies**
 - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
-- Consider bundling or promotions for products like the Samsung Charging Cable Pack to boost their sales contribution without significantly impacting the overall refund rate.
+- Consider bundling or promotions for products like the Samsung Charging Cable Pack or Samsung Webcam to boost their sales contribution without significantly impacting the overall refund rate.
   
 **Global: Focus on Major Markets**
 - Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
