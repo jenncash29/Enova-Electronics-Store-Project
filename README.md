@@ -42,7 +42,7 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
   - Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions. The highest sales and order count were recorded in December 2020. Additionally, September experienced a significant sales spike, likely driven by new iPhone releases and back-to-school shopping. In contrast, February and October were identified as the months with the lowest sales and order counts.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Sales%20by%20Year.png" alt="Monthly Sales by Year">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Sales%20YoY.png" alt="Monthly Sales by Year">
 </p>
 
 ### Loyalty Program Evaluation
