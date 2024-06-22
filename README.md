@@ -92,7 +92,6 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
 
 - **Shipping Performance**
   - Purchase to Ship (1-3 days): Orders are evenly distributed across the first three days, with each day seeing around 36,000 orders. This indicates consistent and efficient shipping practices without significant delays or spikes. Both loyalty members and non-members have similar prompt shipping times.
-  - 
   - Ship to Delivery (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
 
 <p align ="center">
@@ -101,6 +100,39 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
 
   
 # Recommendations
+
+Elist Electronics can address the decline in sales post-pandemic and position itself for sustainable growth in the future. 
+
+**Sales:  Leverage Seasonal Promotions and Marketing Campaigns**
+- Holiday Season Strategy (November-December):
+  - Intensify Marketing Efforts. Increase marketing spend and promotional activities in the weeks leading up to November and December. 
+- Back-to-School and iPhone Release Promotions (September):
+  - Product Launches and Promotions: Capitalize on new product launches, especially iPhones, by coordinating with Apple’s release schedule. Offer trade-in deals, special financing options, and discounts on accessories.
+  - Back-to-School Campaigns: Promote products relevant to students and educators, such as laptops, tablets, and headphones, with back-to-school discounts and bundles.
+Boost Low Sales Months (February and October):
+- Targeted Sales Events: Introduce sales events specifically in February and October to drive customer interest. Consider themes like "Mid-Winter Clearance" or "Fall into Savings."
+- Customer Engagement: Increase engagement with loyalty program members during these months by offering exclusive member-only deals and early access to new products.
+  - Email and Social Media Campaigns: Use targeted email campaigns and social media ads to remind customers of ongoing deals and new arrivals.
+- Targeted marketing campaigns could be designed to convert non-loyalty members into loyalty members, thereby increasing their lifetime value.
+- Data-Driven Adjustments: Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
+
+**Loyalty: Consider Enhancing with Incentives**
+- Given the most recent year shows promise and increased sales with loyalty members over non-loyalty members, it is recommended to enhance the loyalty program with additional benefits. Further enhancing loyalty programs could encourage more frequent purchases and potentially increase their order share. Consider incentives such as special expedited shipping options for loyalty program members.
+  
+**Refunds: Investigate the High Refund Rates**
+- Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
+  
+**Product: Focus on High Performers & Explore Bundling Strategies**
+- Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
+- Consider bundling or promotions for products like the Samsung Charging Cable Pack to boost their sales contribution without significantly impacting the overall refund rate.
+  
+**Global: Focus on Major Markets**
+- Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
+- Expand Emerging Markets: Leverage the growth potential in APAC and LATAM by investing in marketing and distribution channels in emerging markets like India and Brazil.
+
+**Shipping: Optimize Ship to Delivery Times**
+- Work with logistics partners to ensure timely and efficient deliveries.
+- Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
 
 # Assumptions and Caveats
 
