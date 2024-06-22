@@ -58,8 +58,11 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
   - Refund rates peaked in 2020 at 9.22% across all products, marking a 61% increase over 2019. The ThinkPad Laptop had the highest refund rate at 11.76%, followed closely by the MacBook Air Laptop at 11.43%, with the MacBook having a slightly higher return count (453 vs. 343).
 
 - **Most Returned Products**
+  - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this a prolonged return policy.
+  
+- **Average Days to Refund**
   - The Apple AirPods Headphones were the most returned product with 2,636 units, followed by the 27in 4K Gaming Monitor with 1,445 units.
-
+  
 - **Seasonality of Refunds**
   - Refunds rates were highest from February through April.  
 
@@ -119,9 +122,10 @@ Boost Low Sales Months (February and October):
 **Loyalty Program: Consider Enhancing with Incentives**
 - Given the most recent year shows promise and increased sales with loyalty members over non-loyalty members, it is recommended to enhance the loyalty program with additional benefits. Further enhancing loyalty programs could encourage more frequent purchases and potentially increase their order share. Consider incentives such as special expedited shipping options for loyalty program members.
   
-**Refunds: Investigate the High Refund Rates**
+**Refunds: Investigate the High Refund Rates and Prolonged Return Period**
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
 - Research reasons for higher seasonal refund rates during February through April.
+- Address potential issues with errors in the ETL process to ensure accuracy of reporting refund data.  If no issues are found, implement a standard return window of 30 to 90 days from date of purchase.
 
 **Product: Focus on High Performers & Explore Bundling Strategies**
 - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
@@ -136,12 +140,12 @@ Boost Low Sales Months (February and October):
 - Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
 
 # Assumptions and Caveats
-There are areas in the dataset where data quality may need further investigation. While these issues did not significantly impact the quality of this analysis, as they represent less than 1% of the data, they have been retained for completeness. It is recommended to consult with the data engineering team to determine if there were any ETL errors and address these values accordingly.
+There are areas in the dataset where data quality may need further investigation. While these issues did not significantly impact the quality of this analysis, they have been retained for completeness. It is recommended to consult with the data engineering team to determine if there were any ETL errors and address these values accordingly.
 
-**Zero USD Price Orders**
-There are 158 orders with a listed price of USD 0. The reasons for these zero-priced orders are unclear—they could be due to special promotions, giveaways, or customer service issues.
+**Days to Refund:** There are 5,377 orders with an average return time of 740 days. This is likely an error in the ETL process. The orders were retained as it represents a very small portion of the dataset at appromately 5% but warrants further investigation and correction.  
 
-**Missing or Nonsensical Country Codes**
-There are 206 orders with missing or nonsensical country codes. These entries may indicate data entry errors or issues during the data transformation process.
+**Zero USD Price Orders:** There are 158 orders with a listed price of USD 0. The reasons for these zero-priced orders are unclear—they could be due to special promotions, giveaways, or customer service issues. The orders were retained as it represents less than 1% of the data.
+
+**Missing or Nonsensical Country Codes:** There are 206 orders with missing or nonsensical country codes. These entries may indicate data entry errors or issues during the data transformation process. The orders were retained as it represents less than 1% of the data.
 
 
