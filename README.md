@@ -90,7 +90,11 @@ The raw dataset contains just over 108,000 rows, with each row repreenting a uni
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Performance.png" alt="Refunds">
 </p>
 
-
+- **Shipping Performance**
+  - Purchase to Ship (1-3 days): Orders are evenly distributed across the first three days, with each day seeing around 36,000 orders. This indicates consistent and efficient shipping practices without significant delays or spikes. There appears to be no notable advantage for loyalty members compared to non-members in terms of shipping times.
+  - Ship to Delivery (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
+ 
+  
 # Recommendations
 
 # Assumptions and Caveats
