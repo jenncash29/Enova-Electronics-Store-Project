@@ -90,7 +90,7 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
     - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Top%20Countries%20%26%20Region%20Mix.png" alt="Refunds">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Sales%20Rankings.png" alt="Refunds">
 </p>
 
 - **Shipping Performance**
