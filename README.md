@@ -56,12 +56,12 @@ The raw dataset contains just over 108,000 rows, with each row representing a un
 
 - **Peak Refund Rates**
   - Refund rates peaked in 2020 at 9.22% across all products, marking a 61% increase over 2019. The ThinkPad Laptop had the highest refund rate at 11.76%, followed closely by the MacBook Air Laptop at 11.43%, with the MacBook having a slightly higher return count (453 vs. 343).
-
-- **Most Returned Products**
-  - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this a prolonged return policy.
   
-- **Average Days to Refund**
+- **Most Returned Products**
   - The Apple AirPods Headphones were the most returned product with 2,636 units, followed by the 27in 4K Gaming Monitor with 1,445 units.
+ 
+- **Average Days to Refund**
+  - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this a prolonged return policy.
   
 - **Seasonality of Refunds**
   - Refunds rates were highest from February through April.  
