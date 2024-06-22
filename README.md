@@ -116,7 +116,7 @@ Boost Low Sales Months (February and October):
 - Targeted marketing campaigns could be designed to convert non-loyalty members into loyalty members, thereby increasing their lifetime value.
 - Data-Driven Adjustments: Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
 
-**Loyalty: Consider Enhancing with Incentives**
+**Loyalty Program: Consider Enhancing with Incentives**
 - Given the most recent year shows promise and increased sales with loyalty members over non-loyalty members, it is recommended to enhance the loyalty program with additional benefits. Further enhancing loyalty programs could encourage more frequent purchases and potentially increase their order share. Consider incentives such as special expedited shipping options for loyalty program members.
   
 **Refunds: Investigate the High Refund Rates**
@@ -135,4 +135,12 @@ Boost Low Sales Months (February and October):
 - Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
 
 # Assumptions and Caveats
+There are areas in the dataset where data quality may need further investigation. While these issues did not significantly impact the quality of this analysis, as they represent less than 1% of the data, they have been retained for completeness. It is recommended to consult with the data engineering team to determine if there were any ETL errors and address these values accordingly.
+
+**Zero USD Price Orders**
+There are 158 orders with a listed price of USD 0. The reasons for these zero-priced orders are unclear—they could be due to special promotions, giveaways, or customer service issues.
+
+**Missing or Nonsensical Country Codes**
+There are 206 orders with missing or nonsensical country codes. These entries may indicate data entry errors or issues during the data transformation process.
+
 
