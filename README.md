@@ -16,7 +16,7 @@ Elist Electronics processed over 108,000 orders from 2019 to 2022, totaling appr
 
 ### About the Data 
 
-The raw dataset comprises over 108,000 rows, each representing a unique purchase order. For a comprehensive view of my process, you can access the [change log](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Change%20Log.pdf) and my [structured approach](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Structured%20Cleaning%20Framework.pdf) to cleaning and formatting the raw Excel workbook. This documentation provides insights into the steps taken to ensure data accuracy and consistency, including handling missing values, standardizing formats, and augmenting the data.
+The raw dataset comprises over 108,000 rows, each representing a unique purchase order. For a comprehensive view of my process, you may access the [change log](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Change%20Log.pdf) and my [structured approach](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Structured%20Cleaning%20Framework.pdf) to cleaning and formatting the raw Excel workbook. This documentation provides insights into the steps taken to ensure data accuracy and consistency, including handling missing values, standardizing formats, and augmenting the data.
 
 <p align ="center">
   Elist Electronics Entity Relationship Diagram (ERD)
