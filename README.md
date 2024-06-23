@@ -14,9 +14,9 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 Elist Electronics processed over 108,000 orders from 2019 to 2022, totaling approximately $28 million in sales with an average order value of $260. A significant portion of this growth is likely due to the surge in consumer spending during the COVID-19 pandemic. However, in 2022, sales performance declined by 46% compared to 2021. By analyzing the data in depth, we aim to uncover trends and identify strategies to mitigate losses and explore new opportunities for growth.   
 
-### About the Data
+### About the Data 
 
-The raw dataset contains just over 108,000 rows, with each row representing a unique purchase order. A detailed change log documenting my structured approach to cleaning and formatting the raw Excel workbook is available for download [here](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Change%20Log%20%26%20Structured%20Cleaning%20Framework.xlsx). This log provides insights into the steps taken to ensure data accuracy and consistency, including handling missing values, standardizing formats, and augmenting the data. 
+The raw dataset comprises over 108,000 rows, each representing a unique purchase order. For a comprehensive view of my process, you can access the [change log](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Structured%20Cleaning%20Framework.pdf) and my [structured approach](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Change%20Log.pdf) to cleaning and formatting the raw Excel workbook. This documentation provides insights into the steps taken to ensure data accuracy and consistency, including handling missing values, standardizing formats, and augmenting the data.
 
 <p align ="center">
   Elist Electronics Entity Relationship Diagram (ERD)
