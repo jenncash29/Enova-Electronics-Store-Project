@@ -124,7 +124,8 @@ Elist Electronics can address the decline in sales post-pandemic and position it
   - Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
 
 **Loyalty Program: Consider Enhancing with Incentives**
-- Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share. Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
+- Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share.
+- Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
   
 **Refunds: Investigate the High Refund Rates and Prolonged Return Period**
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
