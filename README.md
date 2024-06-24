@@ -46,8 +46,9 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 </p>
 
 ### Loyalty Program Evaluation
-- The loyalty program showed mixed results. From 2019 to 2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics, indicating a successful turn in the program's impact.
-- Notably, loyalty members averaged 49 days to make a purchase, compared to 71 days for non-members.
+- From 2019 to 2021, non-members outperformed loyalty members in revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics.
+- Notably, in 2021, loyalty members made purchases significantly faster than non-loyalty members (48 days vs. 84 days). In 2022, loyalty members made purchases almost three times faster than non-loyalty members (37 days vs. 102 days).
+- The data indicates a positive trend and growing effectiveness of the loyalty program, particularly evident in 2022.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program%20Evaluation.png" alt="Loyalty Program">
@@ -123,7 +124,7 @@ Elist Electronics can address the decline in sales post-pandemic and position it
   - Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
 
 **Loyalty Program: Consider Enhancing with Incentives**
-- Given the most recent year shows promise and increased sales with loyalty members over non-loyalty members, it is recommended to enhance the loyalty program with additional benefits. Further enhancing loyalty programs could encourage more frequent purchases and potentially increase their order share. Consider incentives such as special expedited shipping options for loyalty program members.
+- Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share. Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
   
 **Refunds: Investigate the High Refund Rates and Prolonged Return Period**
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
