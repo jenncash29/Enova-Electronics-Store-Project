@@ -50,7 +50,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 - Notably, loyalty members averaged 49 days to make a purchase, compared to 71 days for non-members.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program.png" alt="Loyalty Program">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program%20Evaluation.png" alt="Loyalty Program">
 </p>
 
 ### Refund Rate Analysis
@@ -99,7 +99,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   - Days-to-Deliver (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Days%20to%20Deliver.png" alt="Ship to Delivery Days">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20vs%20Non-Loyalty%20Days%20to%20Deliver.png" alt="Ship to Delivery Days">
 </p>
 
   
