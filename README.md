@@ -47,6 +47,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 
 ### Loyalty Program Evaluation
 - The loyalty program showed mixed results. From 2019 to 2021, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2022, loyalty members surpassed non-members across all key metrics, indicating a successful turn in the program's impact.
+- Notably, loyalty members averaged 49 days to make a purchase, compared to 71 days for non-members.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program.png" alt="Loyalty Program">
