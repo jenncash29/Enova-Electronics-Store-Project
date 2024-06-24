@@ -67,12 +67,14 @@ QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1
 ORDER BY total_orders DESC;
 
 
---5. How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? 
+--5. How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? Consider YoY comparisons. 
 SELECT
+  EXTRACT(year FROM purchase_ts) as year,
   CASE WHEN loyalty_program = 1 THEN 'YES' ELSE 'NO' END AS is_loyalty,
   ROUND(AVG(DATE_DIFF(purchase_ts, created_on, day)), 1) as days_to_purchase,
   ROUND(AVG(DATE_DIFF(purchase_ts, created_on, month)), 1) as months_to_purchase
 FROM core.orders 
 LEFT JOIN core.customers 
   ON orders.customer_id = customers.id
-GROUP BY 1;
+GROUP BY 1, 2
+ORDER BY 1;
