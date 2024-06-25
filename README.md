@@ -46,7 +46,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 </p>
 
 ### Loyalty Program Evaluation
-- From 2019 to 2020, non-members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2021, loyalty members surpassed non-members in both sales and order count, marking a significant positive shift for the loyalty program. By 2022, loyalty members had outperformed non-members across all key metrics, demonstrating the growing success and impact of the loyalty program.
+- From 2019 to 2020, non-loyalty members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2021, loyalty members surpassed non-loyalty members in both sales and order count, marking a significant positive shift for the loyalty program. By 2022, loyalty members had outperformed non-loyalty members across all key metrics, demonstrating the growing success and impact of the loyalty program.
 - Notably, in 2021, loyalty members made purchases significantly faster than non-loyalty members (48 days vs. 85 days). In 2022, loyalty members made purchases almost three times faster than non-loyalty members (38 days vs. 103 days).
 - The data indicates a positive trend and growing effectiveness of the loyalty program, particularly evident in 2022.
 
