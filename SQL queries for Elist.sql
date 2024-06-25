@@ -1,4 +1,4 @@
---1. What were the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years? 
+--1. Calculating the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years. 
 SELECT
   DATE_TRUNC(purchase_ts, quarter) as quarter,
   COUNT(DISTINCT orders.id) as order_count,
@@ -15,7 +15,7 @@ GROUP BY 1
 ORDER by 1;
 
 
---2. For products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
+--2. Identifying the region that has the average highest time to deliver for products purchased in 2022 on the website or products purchased on mobile in any year.  
 SELECT
   geo_lookup.region,
   AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) as delivery_days
@@ -34,7 +34,7 @@ ORDER BY 2 DESC
 LIMIT 1;
 
 
---3. What was the refund rate and refund count for each product overall? 
+--3. Calculating the refund rate and refund count for each product overall.
 SELECT
   CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS cleaned_product_name,
   SUM(CASE WHEN refund_ts IS NOT NULL THEN 1 ELSE 0 END) AS refund_count,
@@ -46,7 +46,7 @@ GROUP BY 1
 ORDER BY 3 DESC;
 
 
---4. Within each region, what is the most popular product? 
+--4. Identifying the most popular product within each region.
 --First step is to create a CTE to identify the region, product name, and total order count.
 WITH sales_by_product AS (
   SELECT
@@ -67,7 +67,7 @@ QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1
 ORDER BY total_orders DESC;
 
 
---5. How does the time to make a purchase differ between loyalty customers vs. non-loyalty customers? Consider YoY comparisons. 
+--5. Comparing the YoY differences in time taken to make a purchase between loyalty customers vs. non-loyalty customers.
 SELECT
   EXTRACT(year FROM purchase_ts) as year,
   CASE WHEN loyalty_program = 1 THEN 'YES' ELSE 'NO' END AS is_loyalty,
