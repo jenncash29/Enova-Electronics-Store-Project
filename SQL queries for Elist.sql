@@ -1,9 +1,9 @@
 --1. Calculating the order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years. 
 SELECT
-  DATE_TRUNC(purchase_ts, quarter) as quarter,
-  COUNT(DISTINCT orders.id) as order_count,
-  ROUND(SUM(usd_price), 2) as total_sales_usd,
-  ROUND(AVG(usd_price), 2) as aov_usd
+  DATE_TRUNC(purchase_ts, quarter) AS quarter,
+  COUNT(DISTINCT orders.id) AS order_count,
+  ROUND(SUM(usd_price), 2) AS total_sales_usd,
+  ROUND(AVG(usd_price), 2) AS aov_usd
 FROM core.orders 
 LEFT JOIN core.customers 
   ON orders.customer_id = customers.id
@@ -18,7 +18,7 @@ ORDER by 1;
 --2. Identifying the region that has the average highest time to deliver for products purchased in 2022 on the website or products purchased on mobile in any year.  
 SELECT
   geo_lookup.region,
-  AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) as delivery_days
+  AVG(DATE_DIFF(order_status.delivery_ts, order_status.purchase_ts, day)) AS delivery_days
 FROM core.orders 
 LEFT JOIN core.customers 
   ON orders.customer_id = customers.id
@@ -71,8 +71,8 @@ ORDER BY total_orders DESC;
 SELECT
   EXTRACT(year FROM purchase_ts) as year,
   CASE WHEN loyalty_program = 1 THEN 'YES' ELSE 'NO' END AS is_loyalty,
-  ROUND(AVG(DATE_DIFF(purchase_ts, created_on, day)), 1) as days_to_purchase,
-  ROUND(AVG(DATE_DIFF(purchase_ts, created_on, month)), 1) as months_to_purchase
+  ROUND(AVG(DATE_DIFF(purchase_ts, created_on, day)), 1) AS days_to_purchase,
+  ROUND(AVG(DATE_DIFF(purchase_ts, created_on, month)), 1) AS months_to_purchase
 FROM core.orders 
 LEFT JOIN core.customers 
   ON orders.customer_id = customers.id
