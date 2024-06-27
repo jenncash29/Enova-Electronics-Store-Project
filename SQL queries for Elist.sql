@@ -28,7 +28,7 @@ LEFT JOIN core.geo_lookup
   ON customers.country_code = geo_lookup.country
 WHERE (EXTRACT(year FROM order_status.purchase_ts) = 2022
    AND purchase_platform = 'website')
-   OR purchase_platform = 'mobile'
+   OR purchase_platform = 'mobile app'
 GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 1;
