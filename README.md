@@ -149,7 +149,7 @@ Elist Electronics can address the decline in sales post-pandemic and position it
 # Assumptions and Caveats
 There are areas in the dataset where data quality may need further investigation. While these issues did not significantly impact the quality of this analysis, they have been retained for completeness. It is recommended to consult with the data engineering team to determine if there were any ETL errors and address these values accordingly.
 
-**Days to Refund:** There are 5,377 orders with an average return time of 740 days. This is likely an error in the ETL process. The orders were retained as it represents a very small portion of the dataset at appromately 5% but warrants further investigation and correction.  
+**Days to Refund:** There are 5,377 orders with an average return time of 740 days. This is likely an error in the ETL process. The orders were retained as it represents a very small portion of the dataset at appromately 5%, and did not affect this specific analysis. However, this issue warrants further investigation and correction.  
 
 **Zero USD Price Orders:** There are 158 orders with a listed price of USD 0. The reasons for these zero-priced orders are unclear—they could be due to special promotions, giveaways, or customer service issues. The orders were retained as it represents less than 1% of the data.
 
