@@ -110,12 +110,12 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 Elist Electronics can address the decline in sales post-pandemic and position itself for sustainable growth in the future. 
 
 **Sales:  Leverage Seasonal Promotions and Marketing Campaigns**
-- Holiday Season Strategy (November-December):
+- Holiday Season Strategy **(November-December)**:
   - Increase marketing spend and promotional activities in the weeks leading up to November and December.
-- Back-to-School and iPhone Release Promotions (September):
+- Back-to-School and iPhone Release Promotions **(September)**:
   - Back-to-School Campaigns: Promote products relevant to students and educators, such as laptops, tablets, and headphones, with back-to-school discounts and bundles. 
   - Product Launches and Promotions: Capitalize on new product launches, especially iPhones, by coordinating with Apple’s release schedule. Offer trade-in deals, special financing options, and discounts on accessories.
-- Boost Low Sales Months (February and October):
+- Boost Low Sales Months **(February and October)**:
   - Targeted Sales Events: Introduce sales events specifically in February and October to drive customer interest. Consider themes like "Mid-Winter Clearance" or "Fall into Savings."
   - Customer Engagement: Increase engagement with loyalty program members during these months by offering exclusive member-only deals and early access to new products.
   - Email and Social Media Campaigns: Use targeted email campaigns and social media ads to remind customers of ongoing deals and new arrivals.
@@ -124,16 +124,7 @@ Elist Electronics can address the decline in sales post-pandemic and position it
 - Data-Driven Adjustments:
   - Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
 
-**Loyalty Program: Keep and Consider Enhancing with Incentives**
-- Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to keep and enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share.
-- Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
-  
-**Refunds: Investigate the High Refund Rates and Prolonged Return Period**
-- Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
-- Research reasons for higher seasonal refund rates during February through April.
-- Address potential issues with errors in the ETL process to ensure accuracy of reporting refund data.  If no issues are found, implement a standard return window of 30 to 90 days from date of purchase.
-
-**Product: Focus on High Performers & Explore Bundling Strategies**
+  **Product: Focus on High Performers & Explore Bundling Strategies**
 - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
 - Consider bundling or promotions for products like the Samsung Charging Cable Pack or Samsung Webcam to boost their sales contribution without significantly impacting the overall refund rate.
   
@@ -141,10 +132,18 @@ Elist Electronics can address the decline in sales post-pandemic and position it
 - Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
 - Expand Emerging Markets: Leverage the growth potential in APAC and LATAM by investing in marketing and distribution channels in emerging markets like India and Brazil.
 
+**Loyalty Program: Keep and Consider Enhancing with Incentives**
+- Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to keep and enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share.
+- Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
+
 **Shipping: Optimize Days-to-Deliver Times**
 - Work with logistics partners to ensure timely and efficient deliveries.
 - Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
-
+  
+**Refunds: Investigate the High Refund Rates and Prolonged Return Period**
+- Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
+- Research reasons for higher seasonal refund rates during February through April.
+- Address potential issues with errors in the ETL process to ensure accuracy of reporting refund data.  If no issues are found, implement a standard return window of 30 to 90 days from date of purchase.
 
 
 # Assumptions and Caveats
