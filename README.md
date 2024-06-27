@@ -112,7 +112,7 @@ Elist Electronics can address the decline in sales post-pandemic and position it
 **Sales:  Leverage Seasonal Promotions and Marketing Campaigns**
 - Holiday Season Strategy **(November-December)**:
   - Increase marketing spend and promotional activities in the weeks leading up to November and December.
-- Back-to-School and Apple Release Promotions **(September)**:
+- Back-to-School and Apple Release Promotions **(August-September)**:
   - Back-to-School Campaigns: Promote products relevant to students and educators, such as laptops, tablets, and headphones, with back-to-school discounts and bundles. 
   - Product Launches and Promotions: Capitalize on new product launches, especially Apple products, by coordinating with Apple’s release schedule. Offer trade-in deals, special financing options, and discounts on accessories.
 - Boost Low Sales Months **(February and October)**:
