@@ -45,6 +45,28 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Sales%20YoY.png" alt="Monthly Sales by Year">
 </p>
 
+- **Product Performance**
+  - The bulk of sales revenue comes from the top three products: the 27in 4K Gaming Monitor, Apple AirPods Headphones (the most popular product across all regions), and the MacBook Air Laptop. Together, these products account for 84.96% of total sales.
+  - The ThinkPad Laptop and MacBook Air Laptop have the highest refund rates at 12% and 11%.  Despite the high refund rates, high-value items like the MacBook Air Laptop and ThinkPad Laptop significantly contribute to total sales due to their high average order values.
+  - Products like the Samsung Charging Cable Pack and Samsung Webcam have low AOV but still contribute to total sales through high order volumes, although at a smaller percentage of total sales.
+  - The Bose Soundsport Headphones overall contribution to sales is minimal.
+
+ <p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Mix.png" alt="Product Performance">
+</p>
+
+- **Global Performance**
+  - Out of 192 total countries, 13 countries contribute significantly to sales, accounting for approximately 82% of the total. These countries generate nearly $23 million out of the company's total sales of $28 million. A significant number of countries contribute minimally to the total sales, each accounting for less than 0.01% to 0.03% of total sales.
+    - **Dominant Region:** North America, particularly the United States, is the dominant market, contributing nearly half of the total sales.
+    - **Strong EMEA Presence:** The EMEA region also plays a significant role, with notable contributions from the UK, Germany, France, and Spain.
+    - **APAC Growth Potential:** APAC shows potential with strong sales in Japan and Australia, alongside emerging markets like India and South Korea.
+    - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
+
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Sales%20Rankings.png" alt="Refunds">
+</p>
+
+
 ### Loyalty Program Evaluation
 - From 2019 to 2020, non-loyalty members outperformed loyalty members in terms of revenue, AOV, and order count. However, in 2021, loyalty members surpassed non-loyalty members in both sales and order count, marking a significant positive shift for the loyalty program. By 2022, loyalty members had outperformed non-loyalty members across all key metrics, demonstrating the growing success and impact of the loyalty program.
 - Notably, in 2021, loyalty members made purchases significantly faster than non-loyalty members (48 days vs. 85 days). In 2022, loyalty members made purchases almost three times faster than non-loyalty members (38 days vs. 103 days).
@@ -54,6 +76,16 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program%20Evaluation.png" alt="Loyalty Program">
 </p>
 
+
+- **Shipping Performance**
+  - Days-to-Ship (1-3 days): Orders are evenly distributed across the first three days, with each day seeing around 36,000 orders. This indicates consistent and efficient shipping practices without significant delays or spikes. Both loyalty members and non-members have similar prompt shipping times.
+  - Days-to-Deliver (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
+
+<p align ="center">
+  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20vs%20Non-Loyalty%20Days%20to%20Deliver.png" alt="Ship to Delivery Days">
+</p>
+
+  
 ### Refund Rate Analysis
 
 - **Peak Refund Rates**
@@ -72,38 +104,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refunds%20by%20Month.png" alt="Refunds">
 </p>
 
-### Additional Observations
-- **Product Performance**
-  - The bulk of sales revenue comes from the top three products: the 27in 4K Gaming Monitor, Apple AirPods Headphones (the most popular product across all regions), and the MacBook Air Laptop. Together, these products account for 84.96% of total sales.
-  - The ThinkPad Laptop and MacBook Air Laptop have the highest refund rates at 12% and 11%.  Despite the high refund rates, high-value items like the MacBook Air Laptop and ThinkPad Laptop significantly contribute to total sales due to their high average order values.
-  - Products like the Samsung Charging Cable Pack and Samsung Webcam have low AOV but still contribute to total sales through high order volumes, although at a smaller percentage of total sales.
-  - The Bose Soundsport Headphones overall contribution to sales is minimal.
 
- <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Mix.png" alt="Product Performance">
-</p>
-
-
-- **Global Performance**
-  - Out of 192 total countries, 13 countries contribute significantly to sales, accounting for approximately 82% of the total. These countries generate nearly $23 million out of the company's total sales of $28 million. A significant number of countries contribute minimally to the total sales, each accounting for less than 0.01% to 0.03% of total sales.
-    - **Dominant Region:** North America, particularly the United States, is the dominant market, contributing nearly half of the total sales.
-    - **Strong EMEA Presence:** The EMEA region also plays a significant role, with notable contributions from the UK, Germany, France, and Spain.
-    - **APAC Growth Potential:** APAC shows potential with strong sales in Japan and Australia, alongside emerging markets like India and South Korea.
-    - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
-
-<p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Sales%20Rankings.png" alt="Refunds">
-</p>
-
-- **Shipping Performance**
-  - Days-to-Ship (1-3 days): Orders are evenly distributed across the first three days, with each day seeing around 36,000 orders. This indicates consistent and efficient shipping practices without significant delays or spikes. Both loyalty members and non-members have similar prompt shipping times.
-  - Days-to-Deliver (2-9 days): The majority of orders are delivered within 4 to 7 days, with the peak delivery day being the 5th day (18,152 orders). Both loyalty members and non-members experience similar delivery patterns, with deliveries peaking between the 4th and 7th days.
-
-<p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20vs%20Non-Loyalty%20Days%20to%20Deliver.png" alt="Ship to Delivery Days">
-</p>
-
-  
 # Recommendations
 
 Elist Electronics can address the decline in sales post-pandemic and position itself for sustainable growth in the future. 
@@ -143,6 +144,8 @@ Elist Electronics can address the decline in sales post-pandemic and position it
 **Shipping: Optimize Days-to-Deliver Times**
 - Work with logistics partners to ensure timely and efficient deliveries.
 - Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
+
+
 
 # Assumptions and Caveats
 There are areas in the dataset where data quality may need further investigation. While these issues did not significantly impact the quality of this analysis, they have been retained for completeness. It is recommended to consult with the data engineering team to determine if there were any ETL errors and address these values accordingly.
