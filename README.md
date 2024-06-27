@@ -124,7 +124,7 @@ Elist Electronics can address the decline in sales post-pandemic and position it
 - Data-Driven Adjustments:
   - Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
 
-  **Product: Focus on High Performers & Explore Bundling Strategies**
+**Product: Focus on High Performers & Explore Bundling Strategies**
 - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
 - Consider bundling or promotions for products like the Samsung Charging Cable Pack or Samsung Webcam to boost their sales contribution without significantly impacting the overall refund rate.
   
