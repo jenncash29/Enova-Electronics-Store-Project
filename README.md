@@ -14,7 +14,7 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 Elist Electronics processed over 108,000 orders from 2019 to 2022, totaling approximately $28 million in sales with an average order value of $260. A significant portion of this growth is likely due to the surge in consumer spending during the COVID-19 pandemic. However, in 2022, sales performance declined by 46% compared to 2021. By analyzing the data in depth, we aim to uncover trends and identify strategies to mitigate losses and explore new opportunities for growth.   
 
-Explore an interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/ElistElectronicsSalesDashboard/Dashboard1).
+Explore an interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1).
 
 ### About the Data 
 
