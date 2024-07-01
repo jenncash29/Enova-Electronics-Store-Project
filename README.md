@@ -59,10 +59,10 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 
 - **Global Performance**
   - Out of 192 total countries, 13 countries contribute significantly to sales, accounting for approximately 82% of the total. These countries generate nearly $23 million out of the company's total sales of $28 million. A significant number of countries contribute minimally to the total sales, each accounting for less than 0.01% to 0.03% of total sales.
-    - **Dominant Region:** North America, particularly the United States, is the dominant market, contributing nearly half of the total sales.
-    - **Strong EMEA Presence:** The EMEA region also plays a significant role, with notable contributions from the UK, Germany, France, and Spain.
-    - **APAC Growth Potential:** APAC shows potential with strong sales in Japan and Australia, alongside emerging markets like India and South Korea.
-    - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
+    - **Dominant Region NA (North America):** North America, particularly the United States, is the dominant market, contributing nearly half of the total sales.
+    - **Strong EMEA (Europe, the Middle East, Africa) Presence:** The EMEA region also plays a significant role, with notable contributions from the UK, Germany, France, and Spain.
+    - **APAC (Asia Pacific) Growth Potential:** APAC shows potential with strong sales in Japan and Australia, alongside emerging markets like India and South Korea.
+    - **LATAM's (Latin America) Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Top%20Countries%20%26%20Revenue%20Mix.png" alt="Refunds">
