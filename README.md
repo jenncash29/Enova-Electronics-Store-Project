@@ -22,7 +22,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 
 <p align ="center">
   McFly Electronics Entity Relationship Diagram (ERD)
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Elist%20Electronics%20ERD.png" alt="McFly Electronics ERD">
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/ERD.png" alt="McFly Electronics ERD">
 </p>
 
 
@@ -37,14 +37,14 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   - In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/YoY%20Sales%20and%20Growth.png" alt="YoY Sales & Growth">
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/YoY%20Values%20and%20Growth.png" alt="YoY Sales & Growth">
 </p>
 
 - **Seasonality**
   - Peak sales periods were consistently observed in November and December, coinciding with holiday seasons and Black Friday promotions. The highest sales and order count were recorded in December 2020. Additionally, September experienced a significant sales spike, likely driven by new Apple product releases and back-to-school shopping. In contrast, February and October were identified as the months with the lowest sales and order counts.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Monthly%20Sales%20YoY.png" alt="Monthly Sales by Year">
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Monthly%20Revenue%20YoY.png" alt="Monthly Sales by Year">
 </p>
 
 - **Product Performance**
@@ -54,7 +54,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   - The Bose Soundsport Headphones overall contribution to sales is minimal.
 
  <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Product%20Mix.png" alt="Product Performance">
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Product%20Values.png" alt="Product Performance">
 </p>
 
 - **Global Performance**
@@ -65,7 +65,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
     - **Latin America's Key Market:** Brazil leads in LATAM, with Mexico and other countries contributing to the regional sales.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Global%20Sales%20Rankings.png" alt="Refunds">
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Top%20Countries%20%26%20Revenue%20Mix.png" alt="Refunds">
 </p>
 
 
@@ -75,7 +75,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 - The data indicates a positive trend and growing effectiveness of the loyalty program, particularly evident in 2022.
 
 <p align ="center">
-  <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Loyalty%20Program%20Evaluation.png" alt="Loyalty Program">
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Loyalty%20vs%20Non-Loyalty%20Values.png" alt="Loyalty Program">
 </p>
 
 
