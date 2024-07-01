@@ -100,7 +100,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this a prolonged return policy.
   
 - **Seasonality of Refunds**
-  - Refunds rates were highest from February through April.  
+  - The refund rates are slightly higher than average in February, March, and April.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refunds%20by%20Month.png" alt="Refunds">
@@ -144,7 +144,7 @@ McFly Electronics can address the decline in sales post-pandemic and position it
   
 **Refunds: Investigate the High Refund Rates and Prolonged Return Period**
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
-- Research reasons for higher seasonal refund rates during February through April.
+- Monitor seasonal refund rates during February through April ensuring they do not become larger issues.
 - Address potential issues with errors in the ETL process to ensure accuracy of reporting refund data.  If no issues are found, implement a standard return window of 30 to 90 days from date of purchase.
 
 
