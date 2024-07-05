@@ -14,7 +14,8 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 McFly Electronics processed over 108,000 orders from 2019 to 2022, totaling approximately $28 million in sales with an average order value of $260. A significant portion of this growth is likely due to the surge in consumer spending during the COVID-19 pandemic. However, in 2022, sales performance declined by 46% compared to 2021. By analyzing the data in depth, we aim to uncover trends and identify strategies to mitigate losses and explore new opportunities for growth.   
 
-Explore an interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1).
+Explore an interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1).  
+View my SQL queries used for deeper insights and data exploration [here](https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/SQL%20queries.sql).
 
 ### About the Data 
 
@@ -123,8 +124,6 @@ McFly Electronics can address the decline in sales post-pandemic and position it
   - Email and Social Media Campaigns: Use targeted email campaigns and social media ads to remind customers of ongoing deals and new arrivals.
 - **Convert Non-Loyalty Members to Loyalty Members:**
   - Implement targeted marketing campaigns to convert non-loyalty members into loyalty members, thereby enhancing their lifetime value. By offering personalized incentives and highlighting the benefits of the loyalty program, such campaigns can encourage non-loyalty members to join and remain engaged, ultimately driving increased revenue and customer retention.
-- **Data-Driven Adjustments:**
-  - Customer Feedback: Collect and analyze customer feedback to understand their preferences and pain points during different seasons, enabling more personalized and effective marketing efforts.
 
 **Product: Focus on High Performers & Explore Bundling Strategies**
 - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
@@ -156,5 +155,14 @@ There are areas in the dataset where data quality may need further investigation
 **Zero USD Price Orders:** There are 158 orders with a listed price of USD 0. The reasons for these zero-priced orders are unclear—they could be due to special promotions, giveaways, or customer service issues. The orders were retained as it represents less than 1% of the data.
 
 **Missing or Nonsensical Country Codes:** There are 206 orders with missing or nonsensical country codes. These entries may indicate data entry errors or issues during the data transformation process. The orders were retained as it represents less than 1% of the data.
+
+# Next Steps
+To enhance our data analysis and gain deeper insights, we can incorporate additional dimensions.  
+
+**Customer Feedback:** Collect and analyze customer feedback, including product ratings and return reasons. This will help us understand customer preferences and pain points across different seasons, enabling us to tailor more personalized and effective marketing strategies.  
+
+**A/B Testing:** Implement A/B testing to evaluate the effectiveness of our various marketing campaigns, especially the seasonal campaigns. This approach will allow us to determine which strategies resonate best with our customers and optimize our marketing efforts accordingly.  
+
+**Web Events Tracking:** Add a web_events table to monitor website traffic. By analyzing user behavior and sales funnels, we can identify areas for improvement in the customer journey and enhance the overall user experience on our site.  
 
 
