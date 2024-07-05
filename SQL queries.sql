@@ -47,24 +47,19 @@ ORDER BY 3 DESC;
 
 
 --4. Identifying the most popular product within each region.
---First step is to create a CTE to identify the region, product name, and total order count.
-WITH sales_by_product AS (
-  SELECT
-    region,
-    CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS cleaned_product_name,
-    COUNT(DISTINCT orders.id) AS total_orders
-  FROM core.orders 
-  LEFT JOIN core.customers 
-    ON orders.customer_id = customers.id
-  LEFT JOIN core.geo_lookup 
-    ON customers.country_code = geo_lookup.country
-  GROUP BY 1, 2)
-
---Second step is to create a window function to group each region and order by the order count descending so that I can extract the topped ranked product for each region.  
-SELECT *
-FROM sales_by_product
-QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY total_orders DESC) = 1
-ORDER BY total_orders DESC;
+--This query can be done as a CTE or in one query using QUALIFY. 
+SELECT
+  region,
+  CASE WHEN product_name = '27in"" 4k gaming monitor' THEN '27in 4K gaming monitor' ELSE product_name END AS cleaned_product_name,
+  COUNT(DISTINCT orders.id) AS total_orders
+FROM core.orders 
+LEFT JOIN core.customers 
+  ON orders.customer_id = customers.id
+LEFT JOIN core.geo_lookup 
+  ON customers.country_code = geo_lookup.country
+GROUP BY 1, 2
+QUALIFY ROW_NUMBER() OVER (PARTITION BY region ORDER BY COUNT(DISTINCT orders.id) DESC) = 1
+ORDER BY 3 DESC;
 
 
 --5. Comparing the YoY differences in time taken to make a purchase between loyalty customers vs. non-loyalty customers.
