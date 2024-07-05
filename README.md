@@ -101,7 +101,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this is a prolonged return policy.
   
 - **Seasonality of Refunds**
-  - The refund rates are slightly higher than average in February, March, and April.
+  - The refund rates in February, March, and April are just slightly above the average. The difference is statistically insignificant and not a cause for immediate concern.
 
 <p align ="center">
   <img src="https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Images/Refunds%20by%20Month.png" alt="Refunds">
