@@ -112,36 +112,33 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 
 McFly Electronics can address the decline in sales post-pandemic and position itself for sustainable growth in the future. 
 
-**Sales:  Leverage Seasonal Promotions and Marketing Campaigns**
-- **Holiday Season Strategy (_November-December_)**:
-  - Increase marketing spend and promotional activities in the weeks leading up to November and December.
-- **Back-to-School and Apple Release Promotions (_August-September_)**:
-  - Back-to-School Campaigns: Promote products relevant to students and educators, such as laptops, tablets, and headphones, with back-to-school discounts and bundles. 
-  - Product Launches and Promotions: Capitalize on new product launches, especially Apple products, by coordinating with Apple’s release schedule. Offer trade-in deals, special financing options, and discounts on accessories.
-- **Boost Low Sales Months (_February and October_)**:
-  - Targeted Sales Events: Introduce sales events specifically in February and October to drive customer interest. Consider themes like "Mid-Winter Clearance" or "Fall into Savings."
-  - Customer Engagement: Increase engagement with loyalty program members during these months by offering exclusive member-only deals and early access to new products.
-  - Email and Social Media Campaigns: Use targeted email campaigns and social media ads to remind customers of ongoing deals and new arrivals.
-- **Convert Non-Loyalty Members to Loyalty Members:**
-  - Implement targeted marketing campaigns to convert non-loyalty members into loyalty members, thereby enhancing their lifetime value. By offering personalized incentives and highlighting the benefits of the loyalty program, such campaigns can encourage non-loyalty members to join and remain engaged, ultimately driving increased revenue and customer retention.
+<ins>**Sales Trends & Growth**</ins>  
+- **Leverage Seasonal Promotions and Marketing Campaigns**
+  - **Holiday Season Strategy (_November-December_):**
+    - Increase marketing spend and promotional activities in the weeks leading up to November and December.
+  - **Back-to-School and Apple Release Promotions (_August-September_):**
+    - Back-to-School Campaigns: Promote products relevant to students and educators, such as laptops, tablets, and headphones, with back-to-school discounts and bundles. 
+    - Product Launches and Promotions: Capitalize on new product launches, especially Apple products, by coordinating with Apple’s release schedule. Offer trade-in deals, special financing options, and discounts on accessories.
+  - **Boost Low Sales Months (_February and October_):**
+    - Targeted Sales Events: Introduce sales events specifically in February and October to drive customer interest. Consider themes like "Mid-Winter Clearance" or "Fall into Savings."
+    - Customer Engagement: Increase engagement with loyalty program members during these months by offering exclusive member-only deals and early access to new products.
+    - Email and Social Media Campaigns: Use targeted email campaigns and social media ads to remind customers of ongoing deals and new arrivals.
+  - **Convert Non-Loyalty Members to Loyalty Members:**
+    - Implement targeted marketing campaigns to convert non-loyalty members into loyalty members, thereby enhancing their lifetime value. By offering personalized incentives and highlighting the benefits of the loyalty program, such campaigns can encourage non-loyalty members to join and remain engaged, ultimately driving increased revenue and customer retention.
 
-**Product: Focus on High Performers & Explore Bundling Strategies**
-- Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
-- Consider bundling or promotions for products like the Samsung Charging Cable Pack or Samsung Webcam to boost their sales contribution without significantly impacting the overall refund rate.
+- **Product: Focus on High Performers & Explore Bundling Strategies:**
+  - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
+  - Consider bundling or promotions for products like the Samsung Charging Cable Pack or Samsung Webcam to boost their sales contribution without significantly impacting the overall refund rate.
   
-**Global: Focus on Major Markets**
-- Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
-- Expand Emerging Markets: Leverage the growth potential in APAC and LATAM by investing in marketing and distribution channels in emerging markets like India and Brazil.
+- **Global: Focus on Major Markets:**
+  - Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
+  - Expand Emerging Markets: Leverage the growth potential in APAC and LATAM by investing in marketing and distribution channels in emerging markets like India and Brazil.
 
-**Loyalty Program: Keep and Consider Enhancing with Incentives**
+<ins>**Loyalty Program: Keep and Consider Enhancing with Incentives:**</ins>
 - Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to keep and enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share.
 - Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
-
-**Shipping: Optimize Days-to-Deliver Times**
-- Work with logistics partners to ensure timely and efficient deliveries.
-- Offer multiple shipping options, including expedited shipping, to cater to different customer needs.
   
-**Refunds: Investigate the High Refund Rates and Prolonged Return Period**
+<ins>**Refunds: Investigate the High Refund Rates and Prolonged Return Period:**</ins>
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
 - Monitor seasonal refund rates during February through April ensuring they do not become larger issues.
 - Address potential issues with errors in the ETL process to ensure accuracy of reporting refund data.  If no issues are found, implement a standard return window of 30 to 90 days from date of purchase.
