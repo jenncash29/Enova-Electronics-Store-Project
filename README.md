@@ -98,7 +98,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
   - The Apple AirPods Headphones were the most returned product with 2,636 units, followed by the 27in 4K Gaming Monitor with 1,445 units.
  
 - **Average Days to Refund**
-  - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this a prolonged return policy.
+  - The analysis of our return policy indicates an average return time of 740 days, which is significantly higher than industry standards and customer expectations. It is unclear at this time if this is a result of an error in the ETL (Extract, Transform, Load) process or if this is a prolonged return policy.
   
 - **Seasonality of Refunds**
   - The refund rates are slightly higher than average in February, March, and April.
@@ -147,7 +147,7 @@ McFly Electronics can address the decline in sales post-pandemic and position it
 # Assumptions and Caveats
 There are areas in the dataset where data quality may need further investigation. While these issues did not significantly impact the quality of this analysis, they have been retained for completeness. It is recommended to consult with the data engineering team to determine if there were any ETL errors and address these values accordingly.
 
-**Days to Refund:** There are 5,377 orders with an average return time of 740 days. This is likely an error in the ETL process. The orders were retained as it represents a very small portion of the dataset at appromately 5%, and did not affect this specific analysis. However, this issue warrants further investigation and correction.  
+**Days to Refund:** There are 5,377 orders with an average return time of 740 days. This is likely an error in the ETL process. The orders were retained as they represent a very small portion of the dataset at approximately 5% and did not affect this specific analysis. However, this issue warrants further investigation and correction.  
 
 **Zero USD Price Orders:** There are 158 orders with a listed price of USD 0. The reasons for these zero-priced orders are unclear—they could be due to special promotions, giveaways, or customer service issues. The orders were retained as it represents less than 1% of the data.
 
