@@ -126,19 +126,19 @@ McFly Electronics can address the decline in sales post-pandemic and position it
   - **Convert Non-Loyalty Members to Loyalty Members:**
     - Implement targeted marketing campaigns to convert non-loyalty members into loyalty members, thereby enhancing their lifetime value. By offering personalized incentives and highlighting the benefits of the loyalty program, such campaigns can encourage non-loyalty members to join and remain engaged, ultimately driving increased revenue and customer retention.
 
-- **Product: Focus on High Performers & Explore Bundling Strategies:**
+- **Product: Focus on High Performers & Explore Bundling Strategies**
   - Continue to prioritize marketing and inventory for top-selling items like the 27in 4K Gaming Monitor and Apple AirPods Headphones.
   - Consider bundling or promotions for products like the Samsung Charging Cable Pack or Samsung Webcam to boost their sales contribution without significantly impacting the overall refund rate.
   
-- **Global: Focus on Major Markets:**
+- **Global: Focus on Major Markets**
   - Continue to strengthen presence and marketing in top-performing markets like the US, UK, and Japan.
   - Expand Emerging Markets: Leverage the growth potential in APAC and LATAM by investing in marketing and distribution channels in emerging markets like India and Brazil.
 
-<ins>**Loyalty Program: Keep and Consider Enhancing with Incentives:**</ins>
+<ins>**Loyalty Program: Keep and Consider Enhancing with Incentives**</ins>
 - Given the promising results from the most recent year, with loyalty members outperforming non-loyalty members in sales and demonstrating faster purchase times, it is recommended to keep and enhance the loyalty program with additional benefits. Strengthening the loyalty program could encourage more frequent purchases and potentially increase their order share.
 - Consider offering incentives such as special expedited shipping options, early access to new products and sales, and personalized offers for loyalty program members.
   
-<ins>**Refunds: Investigate the High Refund Rates and Prolonged Return Period:**</ins>
+<ins>**Refunds: Investigate the High Refund Rates and Prolonged Return Period**</ins>
 - Investigate the high refund rates for the ThinkPad and MacBook Air laptops to understand and mitigate the underlying causes.
 - Monitor seasonal refund rates during February through April ensuring they do not become larger issues.
 - Address potential issues with errors in the ETL process to ensure accuracy of reporting refund data.  If no issues are found, implement a standard return window of 30 to 90 days from date of purchase.
