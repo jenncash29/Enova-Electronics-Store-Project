@@ -121,9 +121,10 @@ WITH customer_order_count AS (
   GROUP BY 1,2),
 
 ranking_cte AS (
-	SELECT *, 
-	  DENSE_RANK() OVER (PARTITION BY purchase_platform ORDER BY order_count DESC) AS order_ranking
-	FROM customer_order_count)
+  SELECT 
+	*, 
+	DENSE_RANK() OVER (PARTITION BY purchase_platform ORDER BY order_count DESC) AS order_ranking
+  FROM customer_order_count)
 
 SELECT * 
 FROM ranking_cte 
@@ -145,13 +146,16 @@ ORDER BY 1,3 DESC;
 
 --10. Identifying non-loyalty customers who have made three or more purchases for targeted conversion marketing campaigns.
 WITH ranking AS (
-	SELECT *,
-		DENSE_RANK() OVER(PARTITION BY customer_id ORDER BY purchase_ts) AS order_ranking
-	FROM core.orders
-	LEFT JOIN core.customers 
-		ON orders.customer_id = customers.id
-	WHERE loyalty_program = 0)
+  SELECT 
+	*,
+	DENSE_RANK() OVER(PARTITION BY customer_id ORDER BY purchase_ts) AS order_ranking
+  FROM core.orders
+  LEFT JOIN core.customers 
+	ON orders.customer_id = customers.id
+  WHERE loyalty_program = 0)
 	
 SELECT * 
 FROM ranking
 WHERE order_ranking >= 3;
+
+
