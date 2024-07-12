@@ -109,3 +109,49 @@ LEFT JOIN core.geo_lookup
   ON customers.country_code = geo_lookup.country
 GROUP BY 1, 2
 ORDER BY 1;
+
+
+--8. Identifying the top 3 customers with the highest order count on each purchase platform for targeted marketing efforts, allowing for ties.
+WITH customer_order_count AS (
+  SELECT 
+    purchase_platform,
+    customer_id,
+    COUNT(DISTINCT id) AS order_count
+  FROM core.orders
+  GROUP BY 1,2),
+
+ranking_cte AS (
+	SELECT *, 
+	  DENSE_RANK() OVER (PARTITION BY purchase_platform ORDER BY order_count DESC) AS order_ranking
+	FROM customer_order_count)
+
+SELECT * 
+FROM ranking_cte 
+WHERE order_ranking <= 3;
+
+
+--9. Identifying the product distribution by order count and average price for each supplier. 
+SELECT
+  CASE WHEN orders.product_name LIKE ('%gaming monitor%') THEN '27in 4K Gaming Monitor' ELSE orders.product_name END AS cleaned_product_name,
+  supplier,
+  COUNT(orders.id) AS order_count,
+  ROUND(AVG(usd_price),2) AS average_price
+FROM core.orders 
+LEFT JOIN core.suppliers 
+  ON orders.product_id = suppliers.product_id
+GROUP BY 1,2
+ORDER BY 1,3 DESC;
+
+
+--10. Identifying non-loyalty customers who have made three or more purchases for targeted conversion marketing campaigns.
+WITH ranking AS (
+	SELECT *,
+		DENSE_RANK() OVER(PARTITION BY customer_id ORDER BY purchase_ts) AS order_ranking
+	FROM core.orders
+	LEFT JOIN core.customers 
+		ON orders.customer_id = customers.id
+	WHERE loyalty_program = 0)
+	
+SELECT * 
+FROM ranking
+WHERE order_ranking >= 3;
