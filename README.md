@@ -18,7 +18,7 @@ View my SQL queries used for deeper insights and data exploration [here](https:/
 
 Explore my interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1). 
 <div align="center">
-  <a href="https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1" target="_blank">
+  <a href="https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1">
     <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Tableau%20Dashboard.png" alt="Tableau Dashboard">
   </a>
 </div>
