@@ -1,7 +1,7 @@
 # Project Background
-Founded in 2018, McFly Electronics is an e-commerce company that sells popular electronic products and has since expanded to a global customer base.  McFly Electronics sells products through their online site and mobile app.  They have a variety of marketing channels including Email campaigns, SEO, and affiliate links.  
+Founded in 2018, Enova Electronics is an e-commerce company that sells popular electronic products and has since expanded to a global customer base.  Enova Electronics sells products through their online site and mobile app.  They have a variety of marketing channels including Email campaigns, SEO, and affiliate links.  
 
-This project analysis aims to provide comprehensive insights into the sales performance and customer behavior of McFly Electronics.  By leveraging data analytics tools, this project seeks to uncover trends, evaluate the effectiveness of marketing strategies, and identify areas for improvement.
+This project analysis aims to provide comprehensive insights into the sales performance and customer behavior of Enova Electronics.  By leveraging data analytics tools, this project seeks to uncover trends, evaluate the effectiveness of marketing strategies, and identify areas for improvement.
 
 - **Sales Trends Analysis:**  Examine the overall sales trends over time to identify peak periods and understand the factors driving sales performance.
 - **Growth Rate Calculation:** Determine both monthly and yearly growth rates to measure the business's growth trajectory and identify significant fluctuations.
@@ -12,7 +12,7 @@ This project analysis aims to provide comprehensive insights into the sales perf
 
 ### Overview of Findings
 
-McFly Electronics processed over 108,000 orders from 2019 to 2022, totaling approximately $28 million in sales with an average order value of $260. A significant portion of this growth is likely due to the surge in consumer spending during the COVID-19 pandemic. However, in 2022, sales performance declined by 46% compared to 2021. By analyzing the data in depth, we aim to uncover trends and identify strategies to mitigate losses and explore new opportunities for growth.   
+Enova Electronics processed over 108,000 orders from 2019 to 2022, totaling approximately $28 million in sales with an average order value of $260. A significant portion of this growth is likely due to the surge in consumer spending during the COVID-19 pandemic. However, in 2022, sales performance declined by 46% compared to 2021. By analyzing the data in depth, we aim to uncover trends and identify strategies to mitigate losses and explore new opportunities for growth.   
  
 View my SQL queries used for deeper insights and data exploration [here](https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/SQL%20queries.sql).
 
@@ -39,7 +39,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 ### Sales Trends & Growth Rate Analysis
 
 - **Overall Sales Trends**
-  - McFly Electronics averaged around 27k sales per year from 2019 to 2022, generating approximately $7 million in revenue annually, with an average order value (AOV) of ~$254 USD. The year 2020 saw a dramatic increase in sales, with a 163% rise in total sales compared to 2019. This spike was followed by a gradual return to pre-pandemic sales levels seen in 2019, indicating a normalization of sales post-pandemic. However, Q4 of 2022 experienced a 45% decline in sales compared to Q4 of 2019, highlighting the ongoing impact on the market.
+  - Enova Electronics averaged around 27k sales per year from 2019 to 2022, generating approximately $7 million in revenue annually, with an average order value (AOV) of ~$254 USD. The year 2020 saw a dramatic increase in sales, with a 163% rise in total sales compared to 2019. This spike was followed by a gradual return to pre-pandemic sales levels seen in 2019, indicating a normalization of sales post-pandemic. However, Q4 of 2022 experienced a 45% decline in sales compared to Q4 of 2019, highlighting the ongoing impact on the market.
 
 - **Growth Rates**
   - In terms of growth rates, 2020 was exceptional, with sales and revenue more than doubling compared to 2019. March 2020 marked a significant surge with a 50% increase in total sales and a 46% rise in order count, likely due to increased purchasing during the pandemic.
@@ -117,7 +117,7 @@ The raw dataset comprises over 108,000 rows, each representing a unique purchase
 
 # Recommendations
 
-McFly Electronics can address the decline in sales post-pandemic and position itself for sustainable growth in the future. 
+Enova Electronics can address the decline in sales post-pandemic and position itself for sustainable growth in the future. 
 
 <ins>**Sales Trends & Growth**</ins>  
 - **Leverage Seasonal Promotions and Marketing Campaigns**
