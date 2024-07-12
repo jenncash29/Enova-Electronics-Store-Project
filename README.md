@@ -29,8 +29,8 @@ Explore my interactive, Tableau sales dashboard [here](https://public.tableau.co
 The raw dataset comprises over 108,000 rows, each representing a unique purchase order. For a comprehensive view of my process, you may access a PDF of the [change log](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Change%20Log.pdf) and my [structured approach](https://github.com/jenncash29/Elist-Electronics-Store-Project/blob/main/Structured%20Cleaning%20Framework.pdf) to cleaning and formatting the raw Excel workbook. This documentation provides insights into the steps taken to ensure data accuracy and consistency, including handling missing values, standardizing formats, and augmenting the data.
 
 <p align ="center">
-  McFly Electronics Entity Relationship Diagram (ERD)
-  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/ERD.png" alt="McFly Electronics ERD">
+  Enova Electronics Entity Relationship Diagram (ERD)
+  <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/ERD.png" alt="Enova Electronics ERD">
 </p>
 
 
