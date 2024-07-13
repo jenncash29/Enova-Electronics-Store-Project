@@ -19,7 +19,7 @@ View my SQL queries used for deeper insights and data exploration [here](https:/
 Explore my interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/EnovaElectronicsSalesOverview/Dashboard1). 
 <div align="center">
   <a href="https://public.tableau.com/app/profile/jenncash29/viz/EnovaElectronicsSalesOverview/Dashboard1">
-    <img src="https://github.com/jenncash29/Enova-Electronics-Store-Project/blob/main/Images/Enova%20Tableau%20Dashboard.png" alt="Tableau Dashboard">
+    <img src="https://github.com/jenncash29/Enova-Electronics-Store-Project/blob/main/Images/Enova%20Tableau.png" alt="Tableau Dashboard">
   </a>
 </div>
 
