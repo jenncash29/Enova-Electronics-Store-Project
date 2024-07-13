@@ -133,7 +133,7 @@ WHERE order_ranking <= 3;
 
 --9. Identifying the product distribution by order count and average price for each supplier. 
 SELECT
-  CASE WHEN orders.product_name LIKE ('%gaming monitor%') THEN '27in 4K Gaming Monitor' ELSE orders.product_name END AS cleaned_product_name,
+  CASE WHEN orders.product_name LIKE '%gaming monitor%' THEN '27in 4K Gaming Monitor' ELSE orders.product_name END AS cleaned_product_name,
   supplier,
   COUNT(orders.id) AS order_count,
   ROUND(AVG(usd_price),2) AS average_price
