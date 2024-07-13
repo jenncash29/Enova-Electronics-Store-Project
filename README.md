@@ -16,9 +16,9 @@ Enova Electronics processed over 108,000 orders from 2019 to 2022, totaling appr
  
 View my SQL queries used for deeper insights and data exploration [here](https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/SQL%20queries.sql).
 
-Explore my interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1). 
+Explore my interactive, Tableau sales dashboard [here](https://public.tableau.com/app/profile/jenncash29/viz/EnovaElectronicsSalesOverview/Dashboard1). 
 <div align="center">
-  <a href="https://public.tableau.com/app/profile/jenncash29/viz/McFlyElectronicsSalesOverviewDashboard/Dashboard1">
+  <a href="https://public.tableau.com/app/profile/jenncash29/viz/EnovaElectronicsSalesOverview/Dashboard1">
     <img src="https://github.com/jenncash29/McFly-Electronics-Store-Project/blob/main/Images/Tableau%20Dashboard.png" alt="Tableau Dashboard">
   </a>
 </div>
