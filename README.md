@@ -1,3 +1,5 @@
+Analysis completed in 2024. 
+
 # Project Background
 Founded in 2018, Enova Electronics is an e-commerce company that sells popular electronic products and has since expanded to a global customer base.  Enova Electronics sells products through their online site and mobile app.  They have a variety of marketing channels including Email campaigns, SEO, and affiliate links.  
 
